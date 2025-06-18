@@ -1,0 +1,4 @@
+/* Menerapkan font Inter sebagai font default */
+body {
+  font-family: 'Inter', sans-serif;
+}
